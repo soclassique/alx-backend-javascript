@@ -1,0 +1,19 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "0x01-ES6_promise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  },
+  "author": "Soso Oloju",
+  "license": "ALX"
+}
